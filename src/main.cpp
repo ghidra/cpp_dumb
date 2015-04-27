@@ -1,4 +1,4 @@
-#include "rectangle.cpp"
+#include "rectangle.h"
 
 #include <iostream>
 
